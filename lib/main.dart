@@ -11,10 +11,10 @@ class TaskManagementApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Task Management App UI',
-      home: const HomeScreen(),
+      home: HomeScreen(),
     );
   }
 }

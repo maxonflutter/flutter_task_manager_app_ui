@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_task_manager_app_ui/models/stage_model.dart';
+import 'stage_model.dart';
 
 class Task {
   final String id;
