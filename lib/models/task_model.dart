@@ -82,7 +82,7 @@ class Task {
       commentCount: 3,
       attachmentCount: 0,
       image: const NetworkImage(
-        'https://images.unsplash.com/photo-1660796988367-04c82284be53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80',
+        'https://images.unsplash.com/photo-1661541471551-5d31299e4f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80',
       ),
       stage: Stage.stages[0],
     ),
@@ -94,7 +94,7 @@ class Task {
       commentCount: 3,
       attachmentCount: 0,
       image: const NetworkImage(
-        'https://images.unsplash.com/photo-1660796988367-04c82284be53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80',
+        'https://images.unsplash.com/photo-1661565882741-0b9934df7f3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80',
       ),
       stage: Stage.stages[1],
     ),
@@ -106,7 +106,7 @@ class Task {
       commentCount: 3,
       attachmentCount: 0,
       image: const NetworkImage(
-        'https://images.unsplash.com/photo-1660796988367-04c82284be53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80',
+        'https://images.unsplash.com/photo-1661615343330-7819752217fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80',
       ),
       stage: Stage.stages[2],
     ),
